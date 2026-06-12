@@ -10,7 +10,7 @@ I am an Engineering student and an aspiring **Python Full-Stack Developer**. I l
 ---
 
 ### 💻 What I'm Learning & Doing Next
-- 🌱 **Expanding Skills:** Building RESTful APIs, mastering Python frameworks, and cloud deployment pipelines.
+- 🌱 **Expanding Skills:** Building RESTful APIs, mastering Python frameworks.
 - 💬 **Ask me about:** Python, Flask, Database design, and solving coding problems.
 
 ---
@@ -23,13 +23,6 @@ I am an Engineering student and an aspiring **Python Full-Stack Developer**. I l
 | **Frontend** | HTML5, CSS3, JavaScript |
 | **Databases** | MySQL |
 | **DevOps & Tools** | Git, GitHub, VS Code |
-
----
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinthanas0203&show_icons=true&theme=radical" alt="Chinthana's GitHub Stats" />
-</p>
 
 ---
 📫 **How to reach me:** [www.linkedin.com/in/chinthana-s-48060b32a] | [chinthanas206@gmail.com]
