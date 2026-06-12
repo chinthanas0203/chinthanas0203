@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there 👋 I'm Chinthana 
 
-<!--
-**chinthanas0203/chinthanas0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Engineering student and an aspiring **Python Full-Stack Developer**. I love building backend systems, managing databases, and creating clean user interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Project
+- 🚀 **[Student Management System](https://github.com/chinthanas0203/Student-Management-System) (Completed):** A full-stack Python application built to manage student records, attendance.
+
+---
+
+### 💻 What I'm Learning & Doing Next
+- 🌱 **Expanding Skills:** Building RESTful APIs, mastering Python frameworks, and cloud deployment pipelines.
+- 💬 **Ask me about:** Python, Flask, Database design, and solving coding problems.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Backend** | Python, Flask, FastAPI |
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Databases** | MySQL |
+| **DevOps & Tools** | Git, GitHub, VS Code |
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=chinthanas0203&show_icons=true&theme=radical" alt="Chinthana's GitHub Stats" />
+</p>
+
+---
+📫 **How to reach me:** [www.linkedin.com/in/chinthana-s-48060b32a] | [chinthanas206@gmail.com]
